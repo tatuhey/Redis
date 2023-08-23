@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParamenters>
+		<Parameter name ="azureRedisConnectionString" value="azureredis2023.redis.cache.windows.net:6380,password=ThQaUVV3072JZP1XhFccCVMVwY87FvGiTAzCaBheeiI=,ssl=True,abortConnect=False"></Parameter>
+	</TestRunParamenters>
+</RunSettings>
