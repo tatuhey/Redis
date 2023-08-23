@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis", "Redis\Redis.csproj", "{8B8F77E6-F7A3-4E00-9E16-39B268C7B064}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85BE9B47-4A7C-4704-AF16-B05AD52A1C10}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAAC729A-5E39-4476-81BE-A58BF9C1C46A}"
 	ProjectSection(SolutionItems) = preProject
 		configuration.runsettings = configuration.runsettings
 	EndProjectSection
